@@ -12,6 +12,7 @@ class Start extends Scene {
     }
 }
 
+// test
 class Location extends Scene {
     create(key) {
         //
