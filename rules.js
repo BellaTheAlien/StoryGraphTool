@@ -12,7 +12,7 @@ class Start extends Scene {
     }
 }
 
-// test
+// Updated Location class with Game 1 modifications
 class Location extends Scene {
     create(key) {
         //
